@@ -2,11 +2,12 @@ PROJECT NAME IS:
 My Digital life-Digital Presence Analyzer
 
 OBJECTIVE FOR THE PROJECT:
-The main objective is the build the personal digital life moniter  which tracks your computer usage daily behaviour as well as productivity pattern using only the concepts which you have learnt along with some extra practical concepts to better implement this project
+The main objective is the build the personal digital life moniter  which tracks your computer usage daily behaviour as well as productivity pattern.
+
 FEATURES OF THE TOOL:
- This tool will be able to 
+This tool will be able to 
 1)	Scane your system folder to analyse file types sizes and activity.
-2)	It allows you to log dialy habbits like mood study time intrest and many traits
+2)	It allows you to log daily habbits like mood study time intrest and many traits
 3)	It will visual you trends to track your productivity and system usage
 4)	To store your data log in mysql database
 5)	Structured well enough like a real python project which is modular in nature.
